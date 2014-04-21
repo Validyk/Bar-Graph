@@ -98,13 +98,13 @@ function type(d) {
 data.tsv#
 
 Major	frequency
-Computer Science:4
-Social Science:4
-Biology:2
-Chemistry:2
-Physics:3
-Medieval History:1
-Psychology:2
-Art:3
-English:1
-Economics:2
+Computer Science.4
+Social Science.4
+Biology.2
+Chemistry.2
+Physics.3
+Medieval History.1
+Psychology.2
+Art.3
+English.1
+Economics.2
